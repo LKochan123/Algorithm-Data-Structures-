@@ -15,7 +15,7 @@ lab6 - priority queue
 
 lab7 - graph class 
 
-lab8 - heapsort, selection sort, shellsort, median median 
+lab8 - heapsort, selection sort, shellsort, quciksort, median of medians 
 
 lab9 - MST (prime, kruskal, image segmentation)
 

@@ -1,6 +1,4 @@
 # Algorithms-and-Data-Structures-
-College course subject 
-
 lab1 - matrix class, determinant of matrix by chio method
 
 lab2 - linked list
